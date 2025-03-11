@@ -1,0 +1,12 @@
+<dependencies>
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-core</artifactId>
+        <version>4.3.14.RELEASE</version> <!-- CVE-2018-15756 -->
+    </dependency>
+    <dependency>
+        <groupId>commons-collections</groupId>
+        <artifactId>commons-collections</artifactId>
+        <version>3.2.1</version> <!-- CVE-2015-7501 -->
+    </dependency>
+</dependencies>
